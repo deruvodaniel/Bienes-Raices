@@ -1,3 +1,5 @@
 # Bienes-Raices
 
-This is a simple project with some basic HTML5 & CSS
+My First Responsive Web Site!
+
+HTML5, CSS3, Flexbox
